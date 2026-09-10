@@ -3,14 +3,15 @@
 A local tool that shows real-time Certificate Operations logs from Strata
 Cloud Manager. Created with care by Tal Kushnirsky, and distributed as-is.
 
-## Download
+## Download (v1.0.3t)
 
-Grab the latest release for your platform below, verify the checksum against
-`SHA256SUMS.txt`, and run it:
+Grab the file for your platform below, verify the checksum against
+[`SHA256SUMS.txt`](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/SHA256SUMS.txt),
+and run it:
 
-- **Windows**: unzip, then run `ngts-log-tail.exe`
-- **macOS (Apple Silicon)**: extract the `darwin-arm64` tarball, then run `./ngts-log-tail`
-- **macOS (Intel)**: extract the `darwin-amd64` tarball, then run `./ngts-log-tail`
+- **Windows**: [ngts-log-tail-1.0.3t-windows-amd64.zip](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-windows-amd64.zip) — unzip, then run `ngts-log-tail.exe`
+- **macOS (Apple Silicon)**: [ngts-log-tail-1.0.3t-darwin-arm64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-darwin-arm64.tar.gz) — extract, then run `./ngts-log-tail`
+- **macOS (Intel)**: [ngts-log-tail-1.0.3t-darwin-amd64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-darwin-amd64.tar.gz) — extract, then run `./ngts-log-tail`
 
 The app opens your browser to a local page and tails activity logs directly
 from your machine — no cloud endpoint stays running while you use it.
