@@ -3,6 +3,10 @@
 A local tool that shows real-time Certificate Operations logs from Strata
 Cloud Manager. Created with care by Tal Kushnirsky, and distributed as-is.
 
+## Demo
+
+[![NGTS Log Tail demo](https://img.youtube.com/vi/_KIzuIaZG4Y/maxresdefault.jpg)](https://youtu.be/_KIzuIaZG4Y)
+
 ## Download (v1.0.3t)
 
 Grab the file for your platform below, verify the checksum against
