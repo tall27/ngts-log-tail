@@ -7,15 +7,15 @@ Cloud Manager. Created with care by Tal Kushnirsky, and distributed as-is.
 
 [![NGTS Log Tail demo](https://img.youtube.com/vi/_KIzuIaZG4Y/maxresdefault.jpg)](https://youtu.be/_KIzuIaZG4Y)
 
-## Download (v1.0.3t)
+## Download (v1.0.4t)
 
 Grab the file for your platform below, verify the checksum against
 [`SHA256SUMS.txt`](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/SHA256SUMS.txt),
 and run it:
 
-- **Windows**: [ngts-log-tail-1.0.3t-windows-amd64.zip](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-windows-amd64.zip) — unzip, then run `ngts-log-tail.exe`
-- **macOS (Apple Silicon)**: [ngts-log-tail-1.0.3t-darwin-arm64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-darwin-arm64.tar.gz) — extract, then run `./ngts-log-tail`
-- **macOS (Intel)**: [ngts-log-tail-1.0.3t-darwin-amd64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.3t-darwin-amd64.tar.gz) — extract, then run `./ngts-log-tail`
+- **Windows**: [ngts-log-tail-1.0.4t-windows-amd64.zip](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.4t-windows-amd64.zip) — unzip, then run `ngts-log-tail.exe`
+- **macOS (Apple Silicon)**: [ngts-log-tail-1.0.4t-darwin-arm64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.4t-darwin-arm64.tar.gz) — extract, then run `./ngts-log-tail`
+- **macOS (Intel)**: [ngts-log-tail-1.0.4t-darwin-amd64.tar.gz](https://raw.githubusercontent.com/tall27/ngts-log-tail/main/downloads/ngts-log-tail-1.0.4t-darwin-amd64.tar.gz) — extract, then run `./ngts-log-tail`
 
 The app opens your browser to a local page and tails activity logs directly
 from your machine — no cloud endpoint stays running while you use it.
